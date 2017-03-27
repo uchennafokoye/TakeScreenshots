@@ -1,0 +1,1 @@
+A scrip to take screenshots using Selenium
